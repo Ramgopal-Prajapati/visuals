@@ -74,3 +74,87 @@ Column Chart (File: column_chart.csv):
  - Sample fields: Branch, Admissions
  - Add this CSV to Power BI
  - Choose appropriate chart type from visualization pane
+
+
+
+1. Map Chart
+
+Steps:
+
+Load the sales by region data
+
+Select the "Map" visualization type
+
+Set the "Location" field to "Country" or "Region"
+
+Set the "Size" or "Color" field to "Sales" or "Profit"
+
+Adjust the color scale and size range as needed
+
+Add tooltips to show additional details like City and Quantity
+
+2. Decomposition Tree
+
+Steps:
+
+Load either dataset
+
+Select the "Decomposition Tree" visualization
+
+Set the "Analyze" field to "Sales" or "UnitsSold"
+
+Add hierarchy levels (e.g., Region > Country > City or Category > SubCategory > ProductName)
+
+Enable drill-down functionality
+
+Configure tooltips to show additional metrics
+
+3. Histogram
+
+Steps:
+
+Load the product performance data
+
+Select the "Histogram" visualization
+
+Choose "UnitsSold" or "Price" as the value field
+
+Adjust the bin size/number of bins (e.g., 10 bins)
+
+Add color coding by "Category" if desired
+
+Label axes appropriately ("Frequency" on Y, your metric on X)
+
+4. Heat Map
+
+Steps:
+
+Load the product performance data
+
+Select the "Heat Map" visualization
+
+Set X-axis to "Category" or "SubCategory"
+
+Set Y-axis to "Rating" (binned) or individual products
+
+Set the color intensity to "UnitsSold" or "Profit" (Sales - Returns*Price)
+
+Configure color gradient (e.g., green for high values, red for low)
+
+5. Ribbon Chart
+Steps:
+
+Load the monthly sales trends data
+
+Select the "Ribbon Chart" visualization
+
+Set X-axis to "Month"
+
+Add multiple Y-axis values (Electronics, Furniture, Home, Clothing)
+
+Configure colors for each category
+
+Enable stacking if you want cumulative view
+
+Add data labels for clarity
+
