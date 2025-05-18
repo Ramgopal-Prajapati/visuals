@@ -1,0 +1,76 @@
+Power BI Instructions for 15+ Visual Charts
+
+Stacked Column (File: stacked_column.csv):
+ - Sample fields: Quarter, Product, Sales
+ - Add this CSV to Power BI
+ - Choose appropriate chart type from visualization pane
+
+Area Chart (File: area_chart.csv):
+ - Sample fields: Month, Source, Visits
+ - Add this CSV to Power BI
+ - Choose appropriate chart type from visualization pane
+
+Line Chart (File: line_chart.csv):
+ - Sample fields: Month, Revenue
+ - Add this CSV to Power BI
+ - Choose appropriate chart type from visualization pane
+
+Scatter Chart (File: scatter_chart.csv):
+ - Sample fields: Campaign, Ad_Spend, Sales
+ - Add this CSV to Power BI
+ - Choose appropriate chart type from visualization pane
+
+Pie Chart (File: pie_chart.csv):
+ - Sample fields: Department, Employees
+ - Add this CSV to Power BI
+ - Choose appropriate chart type from visualization pane
+
+Doughnut Chart (File: doughnut_chart.csv):
+ - Sample fields: Category, Count
+ - Add this CSV to Power BI
+ - Choose appropriate chart type from visualization pane
+
+Treemap (File: treemap.csv):
+ - Sample fields: Region, Product, Profit
+ - Add this CSV to Power BI
+ - Choose appropriate chart type from visualization pane
+
+Funnel Chart (File: funnel_chart.csv):
+ - Sample fields: Stage, Users
+ - Add this CSV to Power BI
+ - Choose appropriate chart type from visualization pane
+
+Card Chart (File: card_chart.csv):
+ - Sample fields: Metric, Value
+ - Add this CSV to Power BI
+ - Choose appropriate chart type from visualization pane
+
+Gauge Chart (File: gauge_chart.csv):
+ - Sample fields: Goal, Value
+ - Add this CSV to Power BI
+ - Choose appropriate chart type from visualization pane
+
+Waterfall Chart (File: waterfall_chart.csv):
+ - Sample fields: Step, Amount
+ - Add this CSV to Power BI
+ - Choose appropriate chart type from visualization pane
+
+Kpi Chart (File: kpi_chart.csv):
+ - Sample fields: Month, Revenue, Target
+ - Add this CSV to Power BI
+ - Choose appropriate chart type from visualization pane
+
+Matrix Chart (File: matrix_chart.csv):
+ - Sample fields: Location, Product, Units
+ - Add this CSV to Power BI
+ - Choose appropriate chart type from visualization pane
+
+Table Chart (File: table_chart.csv):
+ - Sample fields: ID, Name, Score
+ - Add this CSV to Power BI
+ - Choose appropriate chart type from visualization pane
+
+Column Chart (File: column_chart.csv):
+ - Sample fields: Branch, Admissions
+ - Add this CSV to Power BI
+ - Choose appropriate chart type from visualization pane
