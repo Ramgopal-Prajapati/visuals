@@ -1,0 +1,11 @@
+Region,Country,State,City,Sales,Profit,Quantity
+North America,USA,California,Los Angeles,250000,62500,1250
+North America,USA,Texas,Houston,180000,45000,900
+North America,Canada,Ontario,Toronto,150000,37500,750
+Europe,UK,England,London,300000,75000,1500
+Europe,Germany,Bavaria,Munich,220000,55000,1100
+Asia,Japan,Tokyo,Tokyo,280000,70000,1400
+Asia,China,Shanghai,Shanghai,320000,80000,1600
+South America,Brazil,São Paulo,São Paulo,120000,30000,600
+Africa,South Africa,Gauteng,Johannesburg,90000,22500,450
+Oceania,Australia,New South Wales,Sydney,110000,27500,550
